@@ -11,7 +11,7 @@
 - Điển hình là DevDocs. Với DevDocs có thể xem tài liệu Online hoặc tải nó về để xem Offline. Nó cung cấp rất nhiều tài liệu, TUT và cả Function, API Reference.
 
 ### 4. Tìm điểm chung giữa các công nghệ
-- Như:
+- Một số cái nên quan tâm đến đầu tiên như:
   + Syntax, Function.
   + Dependency Manager.
   + Build Tool.
